@@ -27,7 +27,7 @@
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
             alt="2021_1_60_097" height="30" width="40" /></a>
 </p>
-<img src="https://camo.githubusercontent.com/0338f006176fe7fcb45ec6dc004f13dd485586c509766fa1a2a203261c33807c/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e676966" alt="" srcset="">
+<img src="https://camo.githubusercontent.com/0338f006176fe7fcb45ec6dc004f13dd485586c509766fa1a2a203261c33807c/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e676966" alt="" height="250px">
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img
