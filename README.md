@@ -46,7 +46,18 @@ My recent work focuses on public health and geospatial platforms, including mala
 
 ### Analytics and Visualization
 <p>
-	<img src="https://skillicons.dev/icons?i=python,tensorflow" />
+	<img src="https://skillicons.dev/icons?i=python,r,tensorflow" />
+</p>
+
+<p>
+	<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" alt="Excel" />
+	<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=000" alt="Power BI" />
+	<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
+	<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
+	<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit-learn" />
+	<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white" alt="Matplotlib" />
+	<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=python&logoColor=white" alt="Seaborn" />
+	<img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" alt="Plotly" />
 </p>
 
 ---
@@ -67,19 +78,6 @@ My recent work focuses on public health and geospatial platforms, including mala
 
 ---
 
-## GitHub Analytics
-
-<p align="center">
-	<img height="170" src="https://github-readme-stats.vercel.app/api?username=khalilurrrahmanridoykhan&show_icons=true&rank_icon=github&theme=default&hide_border=true" />
-	<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khalilurrrahmanridoykhan&layout=compact&theme=default&hide_border=true" />
-</p>
-
-<p align="center">
-	<img src="https://github-readme-streak-stats.herokuapp.com/?user=khalilurrrahmanridoykhan&theme=default&hide_border=true" />
-</p>
-
----
-
 ## Currently Exploring
 
 - Geospatial analytics, mapping workflows, and field micro-planning tools
@@ -91,9 +89,13 @@ My recent work focuses on public health and geospatial platforms, including mala
 ## Connect
 
 <p>
-	<a href="https://linkedin.com/in/khalilur-rahman-ridoy-khan">LinkedIn</a> | 
-	<a href="https://twitter.com/khalilurridoy">Twitter/X</a> | 
-	<a href="https://fb.com/ridoykhan8561">Facebook</a> | 
+	<a href="https://linkedin.com/in/khalilur-rahman-ridoy-khan"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" height="18" width="18" alt="LinkedIn" /></a>
+	<a href="https://linkedin.com/in/khalilur-rahman-ridoy-khan">LinkedIn</a> |
+	<a href="https://twitter.com/khalilurridoy"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" height="18" width="18" alt="Twitter" /></a>
+	<a href="https://twitter.com/khalilurridoy">Twitter/X</a> |
+	<a href="https://fb.com/ridoykhan8561"><img src="https://cdn-icons-png.flaticon.com/512/124/124010.png" height="18" width="18" alt="Facebook" /></a>
+	<a href="https://fb.com/ridoykhan8561">Facebook</a> |
+	<a href="https://www.youtube.com/@KhalilurRahmanRidoykhan"><img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" height="18" width="18" alt="YouTube" /></a>
 	<a href="https://www.youtube.com/@KhalilurRahmanRidoykhan">YouTube</a>
 </p>
 
