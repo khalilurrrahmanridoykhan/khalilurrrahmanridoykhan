@@ -12,19 +12,13 @@
 ---
 
 ### 🌐 Connect with Me
-<p align="left">
-<a href="https://linkedin.com/in/khalilur-rahman-ridoy-khan" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" height="30" width="30" />
-</a>
-<a href="https://twitter.com/khalilurridoy" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" height="30" width="30" />
-</a>
-<a href="https://fb.com/ridoykhan8561" target="blank">
-<img align="center" src="https://cdn-icons-png.flaticon.com/512/124/124010.png" height="30" width="30" />
-</a>
-<a href="https://www.youtube.com/@KhalilurRahmanRidoykhan" target="blank">
-<img align="center" src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" height="30" width="30" />
-</a>
+
+<p align="center">
+<a href="https://krrkhan.com" target="_blank">Website</a> •
+<a href="https://linkedin.com/in/khalilur-rahman-ridoy-khan" target="_blank">LinkedIn</a> •
+<a href="https://twitter.com/khalilurridoy" target="_blank">Twitter</a> •
+<a href="https://fb.com/ridoykhan8561" target="_blank">Facebook</a> •
+<a href="https://www.youtube.com/@KhalilurRahmanRidoykhan" target="_blank">YouTube</a>
 </p>
 
 ---
@@ -32,54 +26,46 @@
 ### 🧠 Tech Stack
 
 #### 👨‍💻 Backend & Database
-<p>
-<img src="https://skillicons.dev/icons?i=python,django,php,laravel,nodejs,postgres,mysql,mongodb" />
-</p>
+Python, Django, PHP, Laravel, Node.js, PostgreSQL, MySQL, MongoDB
 
 #### 🎨 Frontend
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,vue,bootstrap" />
-</p>
+HTML, CSS, JavaScript, React, Vue, Bootstrap
 
 #### 📊 Data & Analytics
-<p>
-<img src="https://skillicons.dev/icons?i=python,pandas,tensorflow" />
-</p>
+Python, Pandas, TensorFlow
 
 #### ⚙️ Tools & DevOps
-<p>
-<img src="https://skillicons.dev/icons?i=docker,git,linux,firebase,postman" />
-</p>
+Docker, Git, Linux, Firebase, Postman
 
 ---
 
 ### 🚀 Featured Projects
-- 📊 **Data Analytics Dashboard (Shiny / Python)**
-- 🌍 **GIS-based Data Visualization System**
-- 📦 **KoBoToolbox-like Data Collection Platform (In Progress)**
-- 📱 **Flutter App for Field Data Collection**
+- 📊 Data Analytics Dashboard (Shiny / Python)
+- 🌍 GIS-based Data Visualization System
+- 📦 KoBoToolbox-like Data Collection Platform (In Progress)
+- 📱 Flutter App for Field Data Collection
 
 ---
 
 ### 📈 GitHub Stats
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=khalilurrrahmanridoykhan&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=khalilurrrahmanridoykhan&show_icons=true" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=khalilurrrahmanridoykhan&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=khalilurrrahmanridoykhan" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khalilurrrahmanridoykhan&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khalilurrrahmanridoykhan&layout=compact" />
 </p>
 
 ---
 
 ### 🎯 Current Focus
-- Building **scalable data systems (ODK / KoBo architecture)**
-- Learning **Geospatial Analytics & Mapping**
-- Improving **System Design & Backend Performance**
+- Building scalable data systems (ODK / KoBo architecture)
+- Learning Geospatial Analytics & Mapping
+- Improving System Design & Backend Performance
 
 ---
 
