@@ -51,7 +51,7 @@ My recent work focuses on public health and geospatial platforms, including mala
 
 <p>
 	<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&amp;logo=microsoftexcel&amp;logoColor=white" alt="Excel" />
-	<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&amp;logo=powerbi&amp;logoColor=000" alt="Power BI" />
+	<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&amp;logo=powerbi&amp;logoColor=000000" alt="Power BI" />
 	<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&amp;logo=pandas&amp;logoColor=white" alt="Pandas" />
 	<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&amp;logo=numpy&amp;logoColor=white" alt="NumPy" />
 	<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&amp;logo=scikitlearn&amp;logoColor=white" alt="Scikit-learn" />
