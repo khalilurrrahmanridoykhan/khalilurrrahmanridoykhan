@@ -2,10 +2,10 @@
 <h3 align="center">Senior Full-Stack Developer | Data & Geospatial Systems | Public Health Technology</h3>
 
 <p align="center">
-	<a href="https://krrkhan.com"><img src="https://img.shields.io/badge/Website-krrkhan.com-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
-	<a href="mailto:khalilurrahmanridoykhan@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-0f172a?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-	<a href="https://linkedin.com/in/khalilur-rahman-ridoy-khan"><img src="https://img.shields.io/badge/LinkedIn-Ridoy-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-	<a href="https://github.com/khalilurrrahmanridoykhan"><img src="https://img.shields.io/badge/GitHub-Profile-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+	<a href="https://krrkhan.com"><img src="https://img.shields.io/badge/Website-krrkhan.com-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white&cacheSeconds=86400" alt="Website" /></a>
+	<a href="mailto:khalilurrahmanridoykhan@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-0f172a?style=for-the-badge&logo=gmail&logoColor=white&cacheSeconds=86400" alt="Email" /></a>
+	<a href="https://linkedin.com/in/khalilur-rahman-ridoy-khan"><img src="https://img.shields.io/badge/LinkedIn-Ridoy-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&cacheSeconds=86400" alt="LinkedIn" /></a>
+	<a href="https://github.com/khalilurrrahmanridoykhan"><img src="https://img.shields.io/badge/GitHub-Profile-111111?style=for-the-badge&logo=github&logoColor=white&cacheSeconds=86400" alt="GitHub" /></a>
 </p>
 
 ---
@@ -50,14 +50,14 @@ My recent work focuses on public health and geospatial platforms, including mala
 </p>
 
 <p>
-	<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" alt="Excel" />
-	<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=000" alt="Power BI" />
-	<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
-	<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
-	<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit-learn" />
-	<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white" alt="Matplotlib" />
-	<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=python&logoColor=white" alt="Seaborn" />
-	<img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" alt="Plotly" />
+	<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white&cacheSeconds=86400" alt="Excel" />
+	<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=000&cacheSeconds=86400" alt="Power BI" />
+	<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white&cacheSeconds=86400" alt="Pandas" />
+	<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white&cacheSeconds=86400" alt="NumPy" />
+	<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white&cacheSeconds=86400" alt="Scikit-learn" />
+	<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white&cacheSeconds=86400" alt="Matplotlib" />
+	<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=python&logoColor=white&cacheSeconds=86400" alt="Seaborn" />
+	<img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white&cacheSeconds=86400" alt="Plotly" />
 </p>
 
 ---
@@ -89,10 +89,10 @@ My recent work focuses on public health and geospatial platforms, including mala
 ## Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/khalilur-rahman-ridoy-khan"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://twitter.com/khalilurridoy"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
-  <a href="https://fb.com/ridoykhan8561"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
-  <a href="https://www.youtube.com/@KhalilurRahmanRidoykhan"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+  <a href="https://linkedin.com/in/khalilur-rahman-ridoy-khan"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&cacheSeconds=86400" alt="LinkedIn" /></a>
+  <a href="https://twitter.com/khalilurridoy"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&cacheSeconds=86400" alt="Twitter" /></a>
+  <a href="https://fb.com/ridoykhan8561"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&cacheSeconds=86400" alt="Facebook" /></a>
+  <a href="https://www.youtube.com/@KhalilurRahmanRidoykhan"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&cacheSeconds=86400" alt="YouTube" /></a>
 </p>
 
 > Turning data into decisions, and ideas into scalable systems.
