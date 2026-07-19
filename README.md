@@ -12,7 +12,7 @@
 
 ## About Me
 
-I am an IT Team Leader and senior full-stack developer based in Dhaka, Bangladesh, with 6+ years of hands-on experience delivering production-grade web applications, APIs, data pipelines, and Linux-hosted systems.
+I am an IT Team Leader and senior full-stack developer based in Dhaka, Bangladesh, with 6+ years of hands-on experience delivering production-grade web applications, APIs, data pipelines, and Linux-hosted systems. 
 
 My recent work focuses on public health and geospatial platforms, including malaria surveillance, village mapping, and field data collection systems used by national program stakeholders.
 
